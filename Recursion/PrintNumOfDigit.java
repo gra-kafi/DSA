@@ -9,6 +9,6 @@ public class PrintNumOfDigit {
         if(num==0){
             return 0;
         }
-        return countNum(num/10)
+        return countNum(num/10);
     }
 }
